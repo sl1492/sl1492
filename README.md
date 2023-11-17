@@ -12,7 +12,7 @@
 <table>
     <tr>
         <th>My Linkedin</th>
-        <th>My CV</th>
+        <th>My Resume</th>
     </tr>
     <tr>
         <td>
