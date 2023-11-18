@@ -20,7 +20,7 @@
             <a href="https://www.linkedin.com/in/simeng-li-8477421b9/">🌐</a>
         </td>
         <td>
-            <a href="https://github.com/sl1492/sl1492/blob/main/Simeng_Li_Resume.pdf">📃</a>
+            <a href="https://github.com/sl1492/sl1492/blob/main/SimengLi_Resume.pdf">📃</a>
         </td>
     </tr>
 </table>
