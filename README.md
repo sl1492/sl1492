@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Massachusetts General Hospital on HIV research
 - 🌱 I'm applying for graduate schools in data science 
-- ⚡ I am obsessed with Jigsaw Puzzles recently
+- ⚡ I am obsessed with jigsaw puzzles
 
 <br/>
 
