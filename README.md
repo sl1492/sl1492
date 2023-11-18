@@ -3,7 +3,7 @@
 ### Clinical Research Coordinator & Data Scientist
 
 - 🔭 I’m currently working at Massachusetts General Hospital on HIV research
-- 🌱 I'm applying for Masters in data science 
+- 🌱 I'm applying for graduate schools in data science 
 - ⚡ I am obsessed with Jigsaw Puzzles recently
 
 <br/>
