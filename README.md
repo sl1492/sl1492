@@ -3,7 +3,7 @@
 ### Clinical Research Coordinator & Data Scientist
 
 - 🔭 I’m currently working at Massachusetts General Hospital on HIV research
-- 🌱 I graduated with a BS from University of Richmond in May 2023
+- 🌱 I graduated Summa Cum Laude with a BS from University of Richmond in May 2023
 - 👑 I'm applying for graduate schools in data science
 - 🌟 My tool set: Python, SQL, R, Java, C++, SAS
 
