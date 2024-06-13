@@ -5,7 +5,6 @@
 - 🔭 I’m currently working at Regeneron as a summer intern in stats programming
 - 🌱 I graduated Summa Cum Laude with a BS from University of Richmond in May 2023
 - 🌞 I will start grad school in Aug 2024 at Cornell
-- 👑 I'm applying for graduate schools in data science
 - 🌟 My tool set: Python, SQL, R, Java, C++, SAS
 
 <br/>
